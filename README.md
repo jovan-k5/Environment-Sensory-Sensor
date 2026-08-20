@@ -15,7 +15,7 @@ The device uses a photocell to measure light and a DHT11 sensor to measure tempe
 The current prototype thresholds are:
 
 - **Light:** Above 300 analog units
-- **Temperature:** Above 25.6°C (78°F)
+- **Temperature:** Above 25.6°C
 - **Humidity:** Above 70% relative humidity
 
 The number of elevated conditions determines the system status:
@@ -82,4 +82,4 @@ The current prototype uses inexpensive sensors and fixed prototype thresholds ra
 
 ## Overall Growth
 
-This project took me from testing individual Arduino components to building an integrated system. It strengthened my understanding of sensors, circuits, programming, debugging, and hardware-software connections, while giving me a practical foundation for exploring assistive technology.
+This project took me from testing individual Arduino components to building an integrated system. It strengthened my understanding of sensors, circuits, programming, debugging, and hardware-software connections, while giving me a foundation for exploring assistive technology.
