@@ -15,7 +15,7 @@ The device uses a photocell to measure light and a DHT11 sensor to measure tempe
 The current prototype thresholds are:
 
 - **Light:** Above 300 analog units
-- **Temperature:** Above 25.6°C
+- **Temperature:** Above 28 Degrees Celsius
 - **Humidity:** Above 70% relative humidity
 
 The number of elevated conditions determines the system status:
