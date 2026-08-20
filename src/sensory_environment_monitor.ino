@@ -28,7 +28,7 @@ int lightValue = 0;
 //These are prototype thresholds
 //Not always correct due to individual preferences
 
-const float TEMP_HIGH = 25.6;      
+const float TEMP_HIGH = 28;      
 const float HUMIDITY_HIGH = 70.0;  
 const int LIGHT_HIGH = 300;        
 
@@ -213,7 +213,7 @@ void setStatusColor(int status) {
   else if (status == 1) {
 
     analogWrite(redPin, 255);
-    analogWrite(greenPin, 220);
+    analogWrite(greenPin, 200);
     analogWrite(bluePin, 0);
   }
 
