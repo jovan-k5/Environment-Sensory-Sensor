@@ -55,7 +55,7 @@ I developed the project incrementally rather than building the entire system at 
 
 ## Demo
 
-**[Insert demo video here]**
+https://github.com/user-attachments/assets/f7767861-1e39-41e8-bc69-80e421489710
 
 The demo shows the sensor readings, LCD screen navigation, and RGB status indicator responding to environmental conditions.
 
@@ -67,8 +67,6 @@ The demo shows the sensor readings, LCD screen navigation, and RGB status indica
 - How testing individual components makes debugging a system easier.
 
 ## How It Can Be Improved
-
-Future versions could:
 
 - Calibrate the LDR to provide measurements in lux.
 - Transitioning the prototype from a breadboard to a custom PCB.
